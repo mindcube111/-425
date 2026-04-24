@@ -1,1 +1,0 @@
-var e=e=>{try{typeof wx<`u`&&wx.vibrateShort?wx.vibrateShort():typeof navigator<`u`&&navigator.vibrate&&navigator.vibrate(e)}catch{}},t=(e,t)=>{try{e&&e.setPointerCapture&&e.setPointerCapture(t)}catch{}},n=(e,t)=>{try{e&&e.releasePointerCapture&&e.releasePointerCapture(t)}catch{}};export{t as n,e as r,n as t};
